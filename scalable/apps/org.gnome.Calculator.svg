@@ -1,0 +1,23 @@
+<svg width="219" height="219" viewBox="0 0 219 219" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="219" height="219" rx="50" fill="url(#paint0_linear_53_74)"/>
+<ellipse cx="44" cy="83.5" rx="17" ry="16.5" fill="#D9D9D9"/>
+<circle cx="44" cy="126" r="17" fill="#D9D9D9"/>
+<ellipse cx="44" cy="168.5" rx="17" ry="16.5" fill="#D9D9D9"/>
+<ellipse cx="88" cy="83.5" rx="17" ry="16.5" fill="#D9D9D9"/>
+<circle cx="88" cy="126" r="17" fill="#D9D9D9"/>
+<ellipse cx="88" cy="168.5" rx="17" ry="16.5" fill="#D9D9D9"/>
+<ellipse cx="132" cy="83.5" rx="17" ry="16.5" fill="#D9D9D9"/>
+<circle cx="132" cy="126" r="17" fill="#D9D9D9"/>
+<circle cx="176" cy="126" r="17" fill="#E1E39B"/>
+<circle cx="176" cy="41" r="17" fill="#E1E39B"/>
+<ellipse cx="176" cy="83.5" rx="17" ry="16.5" fill="#E1E39B"/>
+<ellipse cx="176" cy="168.5" rx="17" ry="16.5" fill="#FF741E"/>
+<ellipse cx="132" cy="168.5" rx="17" ry="16.5" fill="#D9D9D9"/>
+<rect x="27" y="24" width="123" height="34" rx="17" fill="black"/>
+<defs>
+<linearGradient id="paint0_linear_53_74" x1="109.5" y1="0" x2="109.5" y2="219" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9C9C9C"/>
+<stop offset="1" stop-color="#AFAFAF"/>
+</linearGradient>
+</defs>
+</svg>
